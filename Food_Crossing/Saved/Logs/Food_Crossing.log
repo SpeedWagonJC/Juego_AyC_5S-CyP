@@ -1670,3 +1670,28 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.23-19.48.18:584][994]LogMeshUtilities: Finished distance field build in 10.5s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.09.23-19.48.19:104][996]LogMeshUtilities: Finished distance field build in 11.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.09.23-19.48.19:369][997]LogMeshUtilities: Finished distance field build in 11.3s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.28:924][ 16]LogMeshUtilities: Finished distance field build in 9.3s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.29:097][ 17]LogMeshUtilities: Finished distance field build in 9.5s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.29:261][ 17]LogMeshUtilities: Finished distance field build in 9.7s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.31:435][ 24]LogPSOHitching: Encountered 300 PSO creation hitches so far (83 graphics, 217 compute). 0 of them were precached.
+[2025.09.23-19.48.37:841][ 41]LogMeshUtilities: Finished distance field build in 8.5s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.39:279][ 45]LogMeshUtilities: Finished distance field build in 9.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.43:073][ 56]LogMeshUtilities: Finished distance field build in 13.7s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.55:654][ 94]LogMeshUtilities: Finished distance field build in 12.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.48.59:278][105]LogMeshUtilities: Finished distance field build in 16.0s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.01:482][112]LogMeshUtilities: Finished distance field build in 18.2s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.10:978][140]LogMeshUtilities: Finished distance field build in 9.4s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.10:994][140]LogMeshUtilities: Finished distance field build in 9.4s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.13:796][149]LogMeshUtilities: Finished distance field build in 12.2s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.23:484][178]LogMeshUtilities: Finished distance field build in 9.4s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.24:051][179]LogMeshUtilities: Finished distance field build in 10.0s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.25:034][182]LogMeshUtilities: Finished distance field build in 11.0s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.36:649][217]LogMeshUtilities: Finished distance field build in 11.5s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.37:319][219]LogMeshUtilities: Finished distance field build in 12.2s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.38:357][222]LogMeshUtilities: Finished distance field build in 13.3s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 64% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.40:140][228]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.44:847][242]LogMeshUtilities: Finished distance field build in 6.3s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.49.46:037][245]LogMeshUtilities: Finished distance field build in 7.5s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.09.23-19.50.36:323][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 369.568024
+[2025.09.23-19.50.37:323][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-19.50.37:323][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 370.234314, Update Interval: 343.245331
