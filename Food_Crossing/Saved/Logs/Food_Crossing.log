@@ -6691,3 +6691,152 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.26-16.50.18:925][ 20]AssetCheck: /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/anim_crouchiddle Validating asset
 [2025.09.26-16.50.18:925][ 20]AssetCheck: /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/anim_uncrouch Validating asset
 [2025.09.26-16.50.18:940][ 20]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Alumnos/Documents/GitHub/Juego_CyC_5S-P1/Food_Crossing/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.26-16.51.32:780][851]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/anim_iddle.anim_iddle
+[2025.09.26-16.51.32:780][851]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/anim_iddle.anim_iddle
+[2025.09.26-16.51.32:780][851]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/student.student as actor: SkeletalMeshActor /Game/City.City:PersistentLevel.SkeletalMeshActor_2
+[2025.09.26-16.51.32:781][851]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/student.student as actor: SkeletalMeshActor /Game/City.City:PersistentLevel.SkeletalMeshActor_2
+[2025.09.26-16.51.34:889][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.26-16.51.34:891][ 85]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.09.26-16.51.34:895][ 85]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/anim_iddle.anim_iddle
+[2025.09.26-16.51.34:895][ 85]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/anim_iddle.anim_iddle
+[2025.09.26-16.51.34:897][ 85]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/student.student as actor: SkeletalMeshActor /Game/City.City:PersistentLevel.SkeletalMeshActor_3
+[2025.09.26-16.51.34:898][ 85]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Chars/glb_emission/student/SkeletalMeshes/student.student as actor: SkeletalMeshActor /Game/City.City:PersistentLevel.SkeletalMeshActor_3
+[2025.09.26-16.52.13:678][444]Cmd: DELETE
+[2025.09.26-16.52.13:678][444]Cmd: ACTOR DELETE
+[2025.09.26-16.52.13:680][444]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.09.26-16.52.13:697][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.26-16.52.13:699][444]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.09.26-16.52.19:764][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.26-16.52.19:768][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-16.52.19:815][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City" FILE="../../../../../../Users/Alumnos/Documents/GitHub/Juego_CyC_5S-P1/Food_Crossing/Content/City.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.26-16.52.19:839][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.09.26-16.52.19:854][140]LogSavePackage: Moving output files for package: /Game/City
+[2025.09.26-16.52.19:855][140]LogSavePackage: Moving '../../../../../../Users/Alumnos/Documents/GitHub/Juego_CyC_5S-P1/Food_Crossing/Saved/CityDF56FCE34D14A0B3271ED6B489E748E7.tmp' to '../../../../../../Users/Alumnos/Documents/GitHub/Juego_CyC_5S-P1/Food_Crossing/Content/City.umap'
+[2025.09.26-16.52.19:861][140]LogFileHelpers: Saving map 'City' took 0.045
+[2025.09.26-16.52.19:866][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.589 ms (total: 6.20 sec)
+[2025.09.26-16.52.19:908][140]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-16.52.19:908][140]LogContentValidation: Enabled validators:
+[2025.09.26-16.52.19:908][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-16.52.19:908][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-16.52.19:908][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-16.52.19:908][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-16.52.19:908][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-16.52.19:908][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-16.52.19:908][140]AssetCheck: /Game/City Validating asset
+[2025.09.26-16.52.20:889][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.09.26-16.52.20:911][245]LogStall: Shutdown...
+[2025.09.26-16.52.20:911][245]LogStall: Shutdown complete.
+[2025.09.26-16.52.20:928][245]LogSlate: Window 'Food_Crossing - Unreal Editor' being destroyed
+[2025.09.26-16.52.20:988][245]Cmd: QUIT_EDITOR
+[2025.09.26-16.52.20:989][246]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.26-16.52.20:991][246]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.26-16.52.20:994][246]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.26-16.52.20:994][246]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.26-16.52.20:994][246]LogWorld: UWorld::CleanupWorld for City, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.20:994][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:000][246]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.26-16.52.21:000][246]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.26-16.52.21:000][246]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.26-16.52.21:003][246]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:003][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:004][246]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:004][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:005][246]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:005][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:005][246]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:005][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:006][246]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:006][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:007][246]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:007][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:007][246]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:007][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:007][246]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:007][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:007][246]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:007][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:007][246]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:007][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:007][246]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:007][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:008][246]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:008][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:008][246]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:008][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:008][246]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:008][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:008][246]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:008][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:009][246]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:009][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:009][246]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:009][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:009][246]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:009][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:009][246]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:009][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:010][246]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:010][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:010][246]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:010][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:010][246]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:011][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:011][246]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:011][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:011][246]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:011][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:011][246]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:011][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:012][246]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:012][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:012][246]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:012][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:012][246]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:012][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:012][246]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:012][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:013][246]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:013][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:013][246]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:013][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:016][246]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-16.52.21:016][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-16.52.21:016][246]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.26-16.52.21:016][246]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.26-16.52.21:016][246]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.26-16.52.21:171][246]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.26-16.52.21:171][246]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.26-16.52.21:171][246]LogAudio: Display: Audio Device unregistered from world 'City'.
+[2025.09.26-16.52.21:171][246]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.26-16.52.21:171][246]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.26-16.52.21:172][246]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.26-16.52.21:181][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.26-16.52.21:181][246]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.26-16.52.21:182][246]LogWindowsTextInputMethodSystem: Activated input method: Español (México) - (Keyboard).
+[2025.09.26-16.52.21:183][246]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.26-16.52.21:184][246]LogExit: Preparing to exit.
+[2025.09.26-16.52.21:214][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.09.26-16.52.21:595][246]LogEditorDataStorage: Deinitializing
+[2025.09.26-16.52.21:681][246]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.26-16.52.21:695][246]LogExit: Editor shut down
+[2025.09.26-16.52.21:697][246]LogExit: Transaction tracking system shut down
+[2025.09.26-16.52.21:786][246]LogExit: Object subsystem successfully closed.
+[2025.09.26-16.52.21:878][246]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.26-16.52.21:993][246]LogMemoryProfiler: Shutdown
+[2025.09.26-16.52.21:993][246]LogNetworkingProfiler: Shutdown
+[2025.09.26-16.52.21:993][246]LoadingProfiler: Shutdown
+[2025.09.26-16.52.21:993][246]LogTimingProfiler: Shutdown
+[2025.09.26-16.52.21:993][246]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.26-16.52.21:993][246]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.26-16.52.22:621][246]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.26-16.52.22:632][246]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.26-16.52.22:632][246]RenderDocPlugin: plugin has been unloaded.
+[2025.09.26-16.52.22:667][246]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.26-16.52.22:667][246]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6429F5EB-4321-BB20-5EEF-08A5F1A81223%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=a7c9aff84af38768e0bee0808e5b43a1%7C984d59cfd7fd4019904e67ba891586af%7Cfb2c6bcb-441a-4e88-bd30-74b08b3dd4c0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.26-16.52.23:729][246]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.26-16.52.23:734][246]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.26-16.52.23:734][246]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.26-16.52.23:734][246]LogPakFile: Destroying PakPlatformFile
+[2025.09.26-16.52.24:147][246]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.26-16.52.24:186][246]LogExit: Exiting.
+[2025.09.26-16.52.24:204][246]Log file closed, 09/26/25 10:52:24
