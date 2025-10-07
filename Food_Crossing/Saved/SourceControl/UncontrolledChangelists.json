@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/BP_NPC.uasset",
+				"C:/Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/City.umap",
+				"C:/Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/NewLevelSequence.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/Juego_CyC_5S-P1/Food_Crossing/Content/City.umap",
 				"C:/Users/Alumnos/Documents/GitHub/Juego_CyC_5S-P1/Food_Crossing/Content/Assets/Chars/glb/allinonepr/SkeletalMeshes/allinonepr_PhysicsAsset.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/Juego_CyC_5S-P1/Food_Crossing/Content/Assets/Chars/glb/allinonepr/SkeletalMeshes/allinonepr_Skeleton.uasset",
