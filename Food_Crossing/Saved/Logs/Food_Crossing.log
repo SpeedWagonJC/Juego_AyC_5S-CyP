@@ -3672,3 +3672,19 @@ Asegúrate de que “/Game/Blueprints/NPC/BP_ThirdPersonCharacter.BP_ThirdPerson
 [2025.10.28-19.42.24:117][785]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.10.28-19.42.24:118][785]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2025.10.28-19.42.24:118][785]LogShaderCompilers: Display: ================================================
+[2025.10.28-19.43.23:007][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.28-19.43.23:014][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-19.43.23:079][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Kitchen_Stuff/NPC/NPC_Interact] ([2] browsable assets)...
+[2025.10.28-19.43.23:079][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kitchen_Stuff/NPC/NPC_Interact]
+[2025.10.28-19.43.23:099][ 96]LogSavePackage: Moving output files for package: /Game/Kitchen_Stuff/NPC/NPC_Interact
+[2025.10.28-19.43.23:100][ 96]LogSavePackage: Moving '../../../../../../Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Saved/NPC_InteractBE9148684DE9CC08CEE7FEA4D5A6FF4C.tmp' to '../../../../../../Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Kitchen_Stuff/NPC/NPC_Interact.uasset'
+[2025.10.28-19.43.23:118][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.026 ms (total: 3.21 sec)
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: Enabled validators:
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-19.43.23:180][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-19.43.23:181][ 96]AssetCheck: /Game/Kitchen_Stuff/NPC/NPC_Interact Validating asset
