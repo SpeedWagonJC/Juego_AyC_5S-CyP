@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documentos/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/B_Exit.uasset",
+				"D:/Documentos/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/BP_Pedido.uasset",
+				"D:/Documentos/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Kitchen.umap",
 				"C:/Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/BP_NPC.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/City.umap",
 				"C:/Users/Alumnos/Documents/GitHub/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/NewLevelSequence.uasset",
