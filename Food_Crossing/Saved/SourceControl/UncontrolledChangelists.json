@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mrcha/Desktop/UNIAT/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/NPC/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/mrcha/Desktop/UNIAT/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/NPC/NPC_Interact.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/MG3/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/ST_Recepie.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/MG3/Juego_AyC_5S-CyP/Food_Crossing/Content/Blueprints/BP_Pedido.uasset",
 				"C:/Users/Alumnos/Documents/GitHub/MG3/Juego_AyC_5S-CyP/Food_Crossing/Content/Kitchen.umap",
